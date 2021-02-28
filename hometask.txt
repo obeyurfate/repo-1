@@ -1,1 +1,12 @@
 Отличий нет
+Комиты в human repo:
+Кол-во: 9
+heat added
+Merge branch 'buttons' into demo
+fix readme
+dots
+README added
+Merge branch 'boots' into demo
+boots
+heat added
+init
